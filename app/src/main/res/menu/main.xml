@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.pranaymohapatra.inshortsnewapp.MainActivity">
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/action_example"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/star"
+        android:orderInCategory="100"
+        android:title="@string/favorite"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/sortdown"
+        android:orderInCategory="200"
+        android:title="@string/sort"
+        app:showAsAction="always" />
+
+</menu>

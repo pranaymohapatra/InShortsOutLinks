@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">In Shorts OutLinks</string>
+
+    <string name="title_activity_fullscreen">Read Article</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="action_example">About</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">Favorite</string>
+    <string name="favoriteactvity">Favorite Articles</string>
+    <string name="sort">Sort</string>
+</resources>
